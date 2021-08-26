@@ -45,3 +45,6 @@ secrets.sh
 
 # Local dev bundle
 local-dev/bundle.js
+
+/package-lock.json
+.env
